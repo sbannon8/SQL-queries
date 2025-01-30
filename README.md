@@ -11,7 +11,7 @@ The dataset comprises of information on the following parameters:
 - payments
 - stores
   
-Data can be downloaded [here] (http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
+Data can be downloaded [here](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
 
 #### Tools
 For this project, data was first loaded into the relational database management system (RDMS), then analyzed with SQL. The following tools were used:
