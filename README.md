@@ -19,7 +19,7 @@ For this project, data was first loaded into the relational database management 
 - Tableau - for visualization
 
 #### Executing the code
-The SQL queries used in this project are available in /Scripts/. Querries were written using PostgreSQL.
+The SQL queries used in this project are available in /02 SQL Queries/. Querries were written using PostgreSQL.
 
  ---
 
